@@ -1,0 +1,28 @@
+﻿
+    <style >
+    .details-link {
+        color:palevioletred; /* Default link color */
+        text-decoration: none; /* Remove underline */
+        font-weight: bold; /* Make text bold */
+    }
+</style>
+<h2>All Products :) </h2>
+<table class="table table-bordered table-hover ">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Image</th>
+        <th>Show</th>
+    </tr>
+    @foreach (Product item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td><img src="/images/@item.Image" style="width:70px; height:70px;" /></td>
+            <td><a href="/product/details/@item.Id" class="details-link">View Details</a></td>
+        </tr>
+    }
+</table>

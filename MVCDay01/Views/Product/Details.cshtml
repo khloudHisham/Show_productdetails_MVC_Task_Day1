@@ -1,0 +1,24 @@
+﻿
+
+<style>
+    .back-to-list-link {
+        color: palevioletred; /* Link color */
+        text-decoration: none; /* Remove underline */
+        font-weight: bold; /* Make text bold */
+        display: block; /* Make the link a block element to give it width */
+        margin-top: 10px; /* Add some space above the link */
+        
+    }
+</style>
+
+
+<h2>Product Details </h2>
+<div class="card" style="width: 300px;">
+    <img class="card-img-top" src="/images/@Model.Image" alt="Card image">
+    <div class="card-body">
+        <h3 class="card-title">@Model.Name</h3>
+        <h4>@Model.Price</h4>
+    </div>
+</div>
+
+<a href="/Product/all" class="back-to-list-link">Back to List</a>

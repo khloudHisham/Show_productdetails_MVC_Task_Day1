@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|d:\\my files\\iti 9m intake 44 mnf\\mvc\\day01\\lab01\\mvcday01\\mvcday01\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|solutionrelative:mvcday01\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|d:\\my files\\iti 9m intake 44 mnf\\mvc\\day01\\lab01\\mvcday01\\mvcday01\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|solutionrelative:mvcday01\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\mvcday01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|solutionrelative:mvcday01\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\mvcday01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|solutionrelative:mvcday01\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\mvcday01\\models\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80982CF-03C9-4FA8-8EE6-D35CD360A9CE}|MVCDay01\\MVCDay01.csproj|solutionrelative:mvcday01\\models\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCDay01\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MVCDay01\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:28:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Views\\Product\\All.cshtml",
+              "RelativeDocumentMoniker": "MVCDay01\\Views\\Product\\All.cshtml",
+              "ToolTip": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Views\\Product\\All.cshtml",
+              "RelativeToolTip": "MVCDay01\\Views\\Product\\All.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T12:05:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Models\\ProductBL.cs",
+              "RelativeDocumentMoniker": "MVCDay01\\Models\\ProductBL.cs",
+              "ToolTip": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Models\\ProductBL.cs",
+              "RelativeToolTip": "MVCDay01\\Models\\ProductBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:41:42.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCDay01\\Models\\Product.cs",
+              "ToolTip": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Models\\Product.cs",
+              "RelativeToolTip": "MVCDay01\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:36:59.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVCDay01\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\My Files\\ITI 9M Intake 44 MNF\\MVC\\Day01\\Lab01\\MVCDay01\\MVCDay01\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVCDay01\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:31:58.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\appsettings.Development.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\appsettings.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.staticwebassets.runtime.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.exe
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.deps.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.runtimeconfig.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.dll
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.pdb
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.AssemblyInfoInputs.cache
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.AssemblyInfo.cs
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.csproj.CoreCompileInputs.cache
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.MvcApplicationPartsAssemblyInfo.cache
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.RazorAssemblyInfo.cache
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.RazorAssemblyInfo.cs
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.build.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.development.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.MVCDay01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCDay01.props
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCDay01.props
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCDay01.props
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\bundle\MVCDay01.styles.css
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\projectbundle\MVCDay01.bundle.scp.css
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.dll
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\refint\MVCDay01.dll
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.pdb
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.genruntimeconfig.cache
+D:\My Files\ITI 9M Intake 44 MNF\MVC\Day01\Lab01\MVCDay01\MVCDay01\obj\Debug\net8.0\ref\MVCDay01.dll
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\appsettings.Development.json
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\appsettings.json
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.staticwebassets.runtime.json
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.exe
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.deps.json
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.runtimeconfig.json
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.dll
+D:\المنحه\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.pdb
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.GeneratedMSBuildEditorConfig.editorconfig
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.AssemblyInfoInputs.cache
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.AssemblyInfo.cs
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.csproj.CoreCompileInputs.cache
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.MvcApplicationPartsAssemblyInfo.cache
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.RazorAssemblyInfo.cache
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.RazorAssemblyInfo.cs
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.build.json
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.development.json
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.MVCDay01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCDay01.props
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCDay01.props
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCDay01.props
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.pack.json
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\bundle\MVCDay01.styles.css
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\projectbundle\MVCDay01.bundle.scp.css
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.dll
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\refint\MVCDay01.dll
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.pdb
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.genruntimeconfig.cache
+D:\المنحه\MVCDay01\MVCDay01\obj\Debug\net8.0\ref\MVCDay01.dll
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\appsettings.Development.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\appsettings.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.staticwebassets.runtime.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.exe
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.deps.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.runtimeconfig.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.dll
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\bin\Debug\net8.0\MVCDay01.pdb
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.GeneratedMSBuildEditorConfig.editorconfig
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.AssemblyInfoInputs.cache
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.AssemblyInfo.cs
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.csproj.CoreCompileInputs.cache
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.MvcApplicationPartsAssemblyInfo.cache
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.RazorAssemblyInfo.cache
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.RazorAssemblyInfo.cs
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.build.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.development.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.MVCDay01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.build.MVCDay01.props
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVCDay01.props
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVCDay01.props
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\staticwebassets.pack.json
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\bundle\MVCDay01.styles.css
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\scopedcss\projectbundle\MVCDay01.bundle.scp.css
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.dll
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\refint\MVCDay01.dll
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.pdb
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\MVCDay01.genruntimeconfig.cache
+D:\المنحه\mvc\1\MVCDay01\MVCDay01\obj\Debug\net8.0\ref\MVCDay01.dll
